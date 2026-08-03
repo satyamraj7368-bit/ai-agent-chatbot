@@ -1,7 +1,7 @@
 # AI Agent - NestJS + React Boilerplate
 
 > *"Good artists borrow, great artists steal."* - Igor Stravinsky  
-> So go ahead, steal this. That's what it's here for. 🎨
+> So go ahead, steal this. That's what it's here for. 
 
 ---
 
@@ -169,8 +169,8 @@ npm run dev
 
 This command will start **both**:
 
-- 🟢 **NestJS backend** — API server (usually on `http://localhost:3000`)
-- 🔵 **React frontend** — Chat UI (usually on `http://localhost:5173`)
+-  **NestJS backend** — API server (usually on `http://localhost:3000`)
+-  **React frontend** — Chat UI (usually on `http://localhost:5173`)
 
 ---
 
@@ -353,6 +353,6 @@ If you're stuck, check:
 
 ---
 
-**Happy hacking** 🚀
+**Happy hacking** 
 
 *Now go build something interesting.*
